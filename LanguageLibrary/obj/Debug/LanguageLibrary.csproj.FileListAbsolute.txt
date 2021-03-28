@@ -1,0 +1,11 @@
+C:\Users\Rattanachai Sriwilai\source\repos\Skolprojekt\ITHS-lab4\LanguageLibrary\bin\Debug\LanguageLibrary.dll
+C:\Users\Rattanachai Sriwilai\source\repos\Skolprojekt\ITHS-lab4\LanguageLibrary\bin\Debug\LanguageLibrary.pdb
+C:\Users\Rattanachai Sriwilai\source\repos\Skolprojekt\ITHS-lab4\LanguageLibrary\obj\Debug\LanguageLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Rattanachai Sriwilai\source\repos\Skolprojekt\ITHS-lab4\LanguageLibrary\obj\Debug\LanguageLibrary.dll
+C:\Users\Rattanachai Sriwilai\source\repos\Skolprojekt\ITHS-lab4\LanguageLibrary\obj\Debug\LanguageLibrary.pdb
+C:\Users\D_J_X\OneDrive\Skrivbord\ITHS-lab4-master\LanguageLibrary\bin\Debug\LanguageLibrary.dll
+C:\Users\D_J_X\OneDrive\Skrivbord\ITHS-lab4-master\LanguageLibrary\bin\Debug\LanguageLibrary.pdb
+C:\Users\D_J_X\OneDrive\Skrivbord\ITHS-lab4-master\LanguageLibrary\obj\Debug\LanguageLibrary.csprojAssemblyReference.cache
+C:\Users\D_J_X\OneDrive\Skrivbord\ITHS-lab4-master\LanguageLibrary\obj\Debug\LanguageLibrary.csproj.CoreCompileInputs.cache
+C:\Users\D_J_X\OneDrive\Skrivbord\ITHS-lab4-master\LanguageLibrary\obj\Debug\LanguageLibrary.dll
+C:\Users\D_J_X\OneDrive\Skrivbord\ITHS-lab4-master\LanguageLibrary\obj\Debug\LanguageLibrary.pdb

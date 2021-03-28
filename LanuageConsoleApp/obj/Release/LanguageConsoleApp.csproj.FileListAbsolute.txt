@@ -1,0 +1,10 @@
+C:\Users\D_J_X\OneDrive\Skrivbord\ITHS-lab4-master\LanuageConsoleApp\bin\Release\LanuageConsoleApp.exe.config
+C:\Users\D_J_X\OneDrive\Skrivbord\ITHS-lab4-master\LanuageConsoleApp\bin\Release\LanuageConsoleApp.exe
+C:\Users\D_J_X\OneDrive\Skrivbord\ITHS-lab4-master\LanuageConsoleApp\bin\Release\LanuageConsoleApp.pdb
+C:\Users\D_J_X\OneDrive\Skrivbord\ITHS-lab4-master\LanuageConsoleApp\bin\Release\LanguageLibrary.dll
+C:\Users\D_J_X\OneDrive\Skrivbord\ITHS-lab4-master\LanuageConsoleApp\bin\Release\LanguageLibrary.pdb
+C:\Users\D_J_X\OneDrive\Skrivbord\ITHS-lab4-master\LanuageConsoleApp\obj\Release\LanguageConsoleApp.csprojAssemblyReference.cache
+C:\Users\D_J_X\OneDrive\Skrivbord\ITHS-lab4-master\LanuageConsoleApp\obj\Release\LanguageConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\D_J_X\OneDrive\Skrivbord\ITHS-lab4-master\LanuageConsoleApp\obj\Release\LanguageConsoleApp.csproj.CopyComplete
+C:\Users\D_J_X\OneDrive\Skrivbord\ITHS-lab4-master\LanuageConsoleApp\obj\Release\LanuageConsoleApp.exe
+C:\Users\D_J_X\OneDrive\Skrivbord\ITHS-lab4-master\LanuageConsoleApp\obj\Release\LanuageConsoleApp.pdb

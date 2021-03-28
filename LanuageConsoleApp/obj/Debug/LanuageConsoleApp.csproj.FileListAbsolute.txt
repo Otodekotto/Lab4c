@@ -1,0 +1,10 @@
+C:\Users\Rattanachai Sriwilai\source\repos\Skolprojekt\ITHS-lab4\LanuageConsoleApp\bin\Debug\LanuageConsoleApp.exe.config
+C:\Users\Rattanachai Sriwilai\source\repos\Skolprojekt\ITHS-lab4\LanuageConsoleApp\bin\Debug\LanuageConsoleApp.exe
+C:\Users\Rattanachai Sriwilai\source\repos\Skolprojekt\ITHS-lab4\LanuageConsoleApp\bin\Debug\LanuageConsoleApp.pdb
+C:\Users\Rattanachai Sriwilai\source\repos\Skolprojekt\ITHS-lab4\LanuageConsoleApp\bin\Debug\LanguageLibrary.dll
+C:\Users\Rattanachai Sriwilai\source\repos\Skolprojekt\ITHS-lab4\LanuageConsoleApp\bin\Debug\LanguageLibrary.pdb
+C:\Users\Rattanachai Sriwilai\source\repos\Skolprojekt\ITHS-lab4\LanuageConsoleApp\obj\Debug\LanuageConsoleApp.csprojAssemblyReference.cache
+C:\Users\Rattanachai Sriwilai\source\repos\Skolprojekt\ITHS-lab4\LanuageConsoleApp\obj\Debug\LanuageConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Rattanachai Sriwilai\source\repos\Skolprojekt\ITHS-lab4\LanuageConsoleApp\obj\Debug\LanuageConsoleApp.csproj.CopyComplete
+C:\Users\Rattanachai Sriwilai\source\repos\Skolprojekt\ITHS-lab4\LanuageConsoleApp\obj\Debug\LanuageConsoleApp.exe
+C:\Users\Rattanachai Sriwilai\source\repos\Skolprojekt\ITHS-lab4\LanuageConsoleApp\obj\Debug\LanuageConsoleApp.pdb
